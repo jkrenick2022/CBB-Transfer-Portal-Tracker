@@ -1,6 +1,10 @@
 # File to run automation on Github Actions
 name: Portal Tracker
 
+permissions:
+  contents: write
+
+
 on:
   push:
   schedule:
