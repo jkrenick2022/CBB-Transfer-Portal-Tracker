@@ -2,6 +2,4 @@ playwright
 beautifulsoup4
 requests
 python-dotenv
-time
-datetime
 lxml
