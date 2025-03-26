@@ -2,6 +2,7 @@
 name: Portal Tracker
 
 on:
+  push:
   schedule:
     - cron: '0 * * * *'  # Run every hour on the hour (UTC)
   workflow_dispatch:
