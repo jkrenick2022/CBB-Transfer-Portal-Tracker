@@ -19,6 +19,7 @@ This is an **automated NCAA basketball transfer portal tracker** built with Pyth
 ## 📸 Discord Alert Preview
 
 ![Discord Embed Preview](https://i.imgur.com/ZdEjqfi.png)
+
 <sub>(Sample embed with player name, stats, previous team, commitment, and profile image)</sub>
 
 ---
