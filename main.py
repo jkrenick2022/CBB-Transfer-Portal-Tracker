@@ -15,11 +15,11 @@ def run():
         if status == "new":
             print(f"[NEW] {player_obj.name}")
             send_discord_alert(player_obj, status)
-            time.sleep(2)
+            time.sleep(5)
         elif status == "updated":
             print(f"[UPDATED] {player_obj.name}")
             send_discord_alert(player_obj, status)
-            time.sleep(2)
+            time.sleep(5)
         else:
             print(f"[UNCHANGED] {player_obj.name}")
 
